@@ -1,0 +1,9 @@
+#myCanvas{
+    border-style: ridge;
+    border-width: 5px;
+    border-color: teal;
+}
+
+body {
+    background-image: url("https://png.pngtree.com/png-clipart/20200701/ourlarge/pngtree-abstract-star-space-transparency-background-png-image_2269444.jpg");
+}
